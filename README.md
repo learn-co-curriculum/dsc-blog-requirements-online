@@ -23,6 +23,6 @@ Here are some recommendations to help you meet these requirements:
 * Spread out the timing of your blog posts evenly throughout the program so you don't end up with a backlog. One way to do this is to complete one blog related to each project, and two others related to interesting topics you learn about during the program and want to dig deeper into.
 * Start each blog post at least a week before it's due so that you don't end up pressed for time and rushing to finish.
 * Find someone in your cohort to swap your blog posts for peer review prior to submitting.
-* Review suggestions for choosing topics and writing good blog posts from the [Blogging][] lesson.
+* Review suggestions for choosing topics and writing good blog posts from the [Blogging Overview][] lesson.
 
-[Blogging]: https://github.com/learn-co-curriculum/dsc-welcome-blogging-v2-1
+[Blogging Overview]: https://github.com/learn-co-curriculum/dsc-blogging-overview
