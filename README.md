@@ -1,4 +1,4 @@
-# Blog Requirements & Submission
+# Blog Requirements & Submission (Online)
 
 This lesson describes the Flatiron School blog requirements and submission process. These requirements are designed to give you the best opportunity to deepen your knowledge, practice communication skills, and showcase yourself to potential employers.
 
@@ -14,7 +14,7 @@ You must set up a publicly accessible blog and publish at least seven blog posts
 
 ## Blog Post Submission
 
-After writing your blog posts, you must submit URLs to them in the "Blog Post #X" assignments in the Milestones course. Your teacher will grade each blog post as Complete or Incomplete.
+After writing your blog posts, you must submit URLs to them in the "Blog Post" assignments. Your teacher will grade each blog post as Complete or Incomplete.
 
 ## Recommendations
 
