@@ -22,7 +22,7 @@ Your blog posts must...
 
 ## Blog Post Submission
 
-After writing your blog posts, you must submit URLs to them in the "Blog Post" assignments. Your teacher will grade each blog post as Complete or Incomplete.
+After writing your blog posts, you must submit URLs to them in the "Blog Post" assignments in the "Milestones" topic. Your teacher will grade each blog post as Complete or Incomplete.
 
 ## Recommendations
 
